@@ -13,8 +13,18 @@ include "connection.php";
   <title>Wellmental</title>
 </head>
 
-<body>
-  <nav class="bg-red-200"></nav>
+<body class="bg-wm-bg-light mx-2">
+  <div class="navbar flex justify-between m-4">
+    <a class="navbar-brand uppercase text-wm-darkblue font-bold text-2xl" href="./index.php">wellmental</a>
+    <nav>
+      <ul>
+        <li><a href="login.php">
+            sign up
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
   <?php include $content ?>
 </body>
 
