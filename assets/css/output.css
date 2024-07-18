@@ -609,19 +609,6 @@ video {
   height: 1rem;
 }
 
-.h-max {
-  height: -moz-max-content;
-  height: max-content;
-}
-
-.h-full {
-  height: 100%;
-}
-
-.h-screen {
-  height: 100vh;
-}
-
 .w-2\/3 {
   width: 66.666667%;
 }
@@ -650,12 +637,12 @@ video {
   justify-content: space-evenly;
 }
 
-.rounded-lg {
-  border-radius: 0.5rem;
-}
-
 .rounded {
   border-radius: 0.25rem;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
 }
 
 .border {
@@ -674,6 +661,10 @@ video {
 
 .p-2 {
   padding: 0.5rem;
+}
+
+.font-poppins {
+  font-family: Poppins, sans-serif;
 }
 
 .text-2xl {

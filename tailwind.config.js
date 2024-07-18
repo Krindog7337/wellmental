@@ -7,6 +7,9 @@ module.exports = {
       "wm-darkblue": "#316e8b",
       "wm-blue-primary": "#cde2fd",
     },
+    fontFamily: {
+      poppins: ["Poppins, sans-serif"],
+    },
     extend: {},
   },
   plugins: [],
