@@ -1,5 +1,10 @@
 {
   "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "^3.3.3",
     "tailwindcss": "^3.4.6"
-  }
+  },
+  "plugins": [
+    "@prettier/plugin-php"
+  ]
 }
