@@ -31,6 +31,9 @@ module.exports = {
       bold: "700",
     },
     extend: {},
+    zIndex: {
+      max: "9999",
+    },
   },
   plugins: [],
   darkMode: "class",
