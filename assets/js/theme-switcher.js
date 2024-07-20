@@ -1,5 +1,6 @@
 const sunIcon = document.querySelector(".sun");
 const moonIcon = document.querySelector(".moon");
+const label = document.querySelector(".theme-switcher-label");
 
 const userTheme = localStorage.getItem("theme");
 const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches;
@@ -34,6 +35,9 @@ sunIcon.addEventListener("click", () => {
   themeSwitch();
 });
 moonIcon.addEventListener("click", () => {
+  themeSwitch();
+});
+label.addEventListener("click", () => {
   themeSwitch();
 });
 

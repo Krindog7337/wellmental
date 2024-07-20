@@ -2,8 +2,8 @@
   <div class="container max-w-7xl">
 
     <div class="banner md:lg:grid grid-cols-2">
-      <div class="banner-illustration">
-        <svg width="480.68787" zoomAndPan="magnify" viewBox="0 0 360.51589 447.61876" height="596.82501" preserveAspectRatio="xMidYMid" version="1.0" id="svg91" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+      <div class="banner-illustration w-auto max-w-lg">
+        <svg zoomAndPan="magnify" viewBox="0 0 360.51589 447.61876" preserveAspectRatio="xMidYMid" version="1.0" id="svg91" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
           <defs id="defs24" />
           <path style="display:inline;fill:#72b5f8;fill-opacity:0.460137;stroke-width:0.75" id="path1" d="M 169.12838,177.69907 C 143.30241,180.0579 142.31004,151.80875 122.5217,135.04669 102.40906,118.00992 74.391335,121.66962 71.993852,95.4204 69.635025,69.594424 97.884171,68.602051 114.64624,48.813713 131.683,28.701078 128.0233,0.68335051 154.27252,-1.7141332 180.0985,-4.0729597 181.09087,24.176186 200.87921,40.93825 c 20.11264,17.036767 48.13036,13.377069 50.52785,39.62629 2.35882,25.82598 -25.89032,26.81835 -42.65239,46.60669 -17.03676,20.11263 -13.37706,48.13036 -39.62629,50.52784 z" transform="matrix(1.8628324,0.42609327,-0.39856165,1.878164,-76.166464,41.241279)" />
           <path fill="#ffccbf" d="m 284.08223,370.23547 c -5.21093,-33.34375 -33.0664,-115.17578 -33.0664,-115.17578 l 11.45312,-1.26172 c 0,0 2.27735,-57.84766 -26.27344,-102.62891 -1.42968,-2.24609 -2.94921,-4.45703 -4.53906,-6.625 -7.28125,-9.9375 -16.26562,-19.00781 -27.37109,-26.33594 v 0.0352 c -5.02735,-3.53125 -10.22656,-6.53516 -15.58985,-8.96875 2.02735,-0.36719 3.78907,-0.72656 5.1875,-1.07031 0.0664,-0.0156 0.12891,-0.0391 0.19532,-0.0547 10.33203,-1.65234 18.23828,-10.582028 18.23828,-21.382808 0,-5.27735 -1.89063,-10.11328 -5.02344,-13.8711 -0.004,-0.004 -0.008,-0.0117 -0.008,-0.0156 -1.91406,-3.17969 -3.96094,-6.03906 -5.9375,-9.12891 1.87109,-1.875 3.07031,-4.22656 2.92578,-7.10156 -0.28906,-5.625 -4.99219,-9.96484 -10.58594,-9.85547 -0.46484,-1.73828 -0.89062,-3.60156 -1.25781,-5.61719 -0.11719,-0.82812 -0.25781,-1.65234 -0.42578,-2.46093 -0.2461,-1.19532 -0.5586,-2.36719 -0.91016,-3.52344 -2.23828,-19.933595 -18.62109,-35.3398454 -38.38672,-35.1914084 -16.73047,0.125 -30.83203,11.3671884 -35.96484,26.9140634 l -0.33984,0.0039 c -0.50391,0.0078 -0.90235,0.417969 -0.89844,0.914063 l -6.33203,0.03906 0.0508,8.070312 2.20703,-0.0156 c -6.98828,8.06641 -13.476562,13.4336 -22.960942,14.88282 -0.375,0.0547 -0.68359,0.17968 -0.98047,0.32422 -1.17187,-0.19922 -2.37109,-0.32422 -3.60156,-0.32422 -11.97266,0 -21.67969,9.70703 -21.67969,21.67968 0,11.97266 9.70703,21.67969 21.67969,21.67969 0.004,0 0.008,-0.004 0.0156,-0.004 -3.35157,3.81641 -5.39454,8.804688 -5.39454,14.281248 0,5.19922 1.83204,9.96485 4.88282,13.69922 -3.47266,1.98047 -6.99219,4.26172 -10.53907,6.91407 v -0.0195 C 48.628908,142.37611 13.476563,191.59096 0,225.57142 l 9.929888,4.69139 C 0.863482,254.3175 1.488482,264.0714 4.695513,277.13 c 4.160156,16.93359 32.140625,74.48047 42.085935,95.60937 -4.1289,22.60547 -7.722654,48.97657 -10.85156,71.22266 H 138.26583 c 6.10937,-13.03516 9.27734,-24.55078 14.39843,-36.74219 0.0508,0.0234 0.0977,0.0547 0.15625,0.0664 0.0625,0.0117 0.1211,0.0156 0.1836,0.0156 0.0117,0 0.0234,-0.004 0.0352,-0.004 0.35157,9.1914 1.04688,28.24609 1.10938,36.66406 h 90.2812 c 0.0312,-1.23047 0.0625,-2.48438 0.0937,-3.73047 0.48047,-0.21484 0.89844,-0.42578 1.22656,-0.60547 0.0469,0.082 0.10156,0.16406 0.17969,0.23047 0.17187,0.14844 0.38281,0.21875 0.59375,0.21875 0.043,0 0.082,-0.0195 0.125,-0.0273 0.30469,1.30078 1.34375,3.59375 4.96094,3.69922 3.58593,0.10546 5.92968,-1.28516 7.0039,-2.10938 0.004,0.004 0.004,0.0117 0.008,0.0156 0.18346,0.20324 0.43346,0.30871 0.68346,0.30871 0.14062,0 0.27734,-0.0469 0.41016,-0.11328 0.57031,0.78906 1.90234,1.89844 4.9414,2.10156 4.79297,0.32031 12.77735,-6.44922 16.26563,-21.52344 4.75,-17.3164 6.21093,-32.68359 3.16015,-52.1914 z M 101.51192,210.11437 c 3.16797,11.65235 5.17578,22.94922 3.83594,30.10547 -0.26172,1.39844 -0.63672,2.65625 -1.16797,3.71094 -4.304692,8.49609 -13.027342,22.24219 -22.394532,38.41016 -2.63672,-8.39063 -4.98438,-15.85938 -6.70313,-21.3125 z m 0,0" fill-opacity="1" fill-rule="nonzero" id="path25" style="display:inline" />
@@ -16,14 +16,16 @@
       </div>
       <div class="banner-text flex flex-col justify-evenly mr-40">
         <h1 class="text-4xl text-primary font-bold font-heading">Ingin memperbaiki kesehatan mental tapi gak tau mulai darimana?</h1>
-        <p class="leading-9">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum dolores sint, perferendis provident velit quis sequi, est consequatur repellat molestiae error veniam fugiat. Eligendi fugit aliquid quo exercitationem natus aut eius quod. Asperiores nam at nostrum fugit ex possimus, harum doloribus facere corrupti maiores illum reiciendis architecto, dolor tempora quo?</p>
+        <p class="leading-9">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium repellendus aut a, facere veniam iste, quo officiis maxime recusandae saepe obcaecati deserunt ab?</p>
         <div class="banner-button">
-          <button class="bg-primary dark:darkt text-background p-2 rounded-lg">Try for free</button>
+          <a href="">
+            <button class="bg-primary dark:darkt text-background p-2 rounded-lg hover:shadow-2xl hover:-translate-y-1 transition-all shadow-primary">Try for free</button>
+          </a>
         </div>
       </div>
     </div>
   </div>
-  <span class="company flex justify-center mt-8">
+  <span class="company flex flex-wrap md:flex-nowrap gap-16 justify-center mt-8">
     <img src="./assets/image/g35.svg" alt="">
     <img class="rotate-90" src="./assets/image/g35.svg" alt="">
     <img src="./assets/image/g35.svg" alt="">
@@ -36,6 +38,114 @@
         <h1 class="text-3xl font-heading text-primary font-bold">Testimoni</h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, quam!</p>
       </div>
+
+      <div class="grid grid-cols-1 gap-6 lg:gap-8 sm:grid-cols-2 lg:grid-cols-3 my-8">
+        <!-- grid 1 -->
+        <ul class="flex flex-col gap-8">
+          <li class="text-sm leading-6">
+            <figure class="relative flex flex-col bg-primary/10 hover:bg-primary/30 transition-colors rounded-xl p-6">
+              <svg class="fill-primary size-12 rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                <path d="m228-240 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T458-480L320-240h-92Zm360 0 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T818-480L680-240h-92Z" />
+              </svg>
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus ullam iste doloremque ipsum. Incidunt veritatis dicta labore aliquid iure et.</p>
+              </blockquote>
+              <figcaption class="flex items-center mt-4 pl-2 border-l-2 border-primary">
+                <div class="flex-auto">
+                  <div class="text-base text-slate-900 font-semibold dark:text-slate-300"><a href="" tabindex>Ryan Florence</a></div>
+                  <div class="mt-0.5">Yapper</div>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+          <li class="text-sm leading-6">
+            <figure class="relative flex flex-col bg-primary/10 rounded-xl p-6 hover:bg-primary/30 transition-colors">
+              <svg class="fill-primary size-12 rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                <path d="m228-240 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T458-480L320-240h-92Zm360 0 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T818-480L680-240h-92Z" />
+              </svg>
+              <blockquote>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, repellendus laborum voluptates dolores ab possimus tenetur ipsum iure praesentium voluptate magni quod? Veritatis quaerat animi fuga suscipit delectus distinctio odit cumque eligendi, ab et?</p>
+              </blockquote>
+              <figcaption class="flex items-center mt-4 pl-2 border-l-2 border-primary">
+                <div class="flex-auto">
+                  <div class="text-base text-slate-900 font-semibold dark:text-slate-300"><a href="" tabindex>Ryan Florence</a></div>
+                  <div class="mt-0.5">Yapper</div>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+        </ul>
+        <!-- grid 2 -->
+        <ul class="flex flex-col gap-8">
+          <li class="text-sm leading-6">
+            <figure class="relative flex flex-col bg-primary/10 hover:bg-primary/30 transition-colors rounded-xl p-6">
+              <svg class="fill-primary size-12 rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                <path d="m228-240 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T458-480L320-240h-92Zm360 0 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T818-480L680-240h-92Z" />
+              </svg>
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam ratione debitis rem nesciunt veniam quidem, tempora cupiditate ab hic. Reiciendis, nemo voluptas. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere porro praesentium, a illum ducimus, cumque omnis, non nesciunt labore voluptas sequi?</p>
+              </blockquote>
+              <figcaption class="flex items-center mt-4 pl-2 border-l-2 border-primary">
+                <div class="flex-auto">
+                  <div class="text-base text-slate-900 font-semibold dark:text-slate-300"><a href="" tabindex>Ryan Florence</a></div>
+                  <div class="mt-0.5">Yapper</div>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+          <li class="text-sm leading-6">
+            <figure class="relative flex flex-col bg-primary/10 hover:bg-primary/30 transition-colors rounded-xl p-6">
+              <svg class="fill-primary size-12 rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                <path d="m228-240 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T458-480L320-240h-92Zm360 0 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T818-480L680-240h-92Z" />
+              </svg>
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus ullam iste doloremque ipsum. Incidunt veritatis dicta labore aliquid iure et.</p>
+              </blockquote>
+              <figcaption class="flex items-center mt-4 pl-2 border-l-2 border-primary">
+                <div class="flex-auto">
+                  <div class="text-base text-slate-900 font-semibold dark:text-slate-300"><a href="" tabindex>Ryan Florence</a></div>
+                  <div class="mt-0.5">Yapper</div>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+        </ul>
+        <!-- grid 3 -->
+        <ul class="flex flex-col gap-8">
+          <li class="text-sm leading-6">
+            <figure class="relative flex flex-col bg-primary/10 hover:bg-primary/30 transition-colors rounded-xl p-6">
+              <svg class="fill-primary size-12 rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                <path d="m228-240 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T458-480L320-240h-92Zm360 0 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T818-480L680-240h-92Z" />
+              </svg>
+              <blockquote>
+                <p>Lorem ipsum dolor sit.</p>
+              </blockquote>
+              <figcaption class="flex items-center mt-4 pl-2 border-l-2 border-primary">
+                <div class="flex-auto">
+                  <div class="text-base text-slate-900 font-semibold dark:text-slate-300"><a href="" tabindex>Ryan Florence</a></div>
+                  <div class="mt-0.5">Yapper</div>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+          <li class="text-sm leading-6">
+            <figure class="relative flex flex-col bg-primary/10 hover:bg-primary/30 transition-colors rounded-xl p-6">
+              <svg class="fill-primary size-12 rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                <path d="m228-240 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T458-480L320-240h-92Zm360 0 92-160q-66 0-113-47t-47-113q0-66 47-113t113-47q66 0 113 47t47 113q0 23-5.5 42.5T818-480L680-240h-92Z" />
+              </svg>
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium nisi, magni impedit reiciendis recusandae iste! Alias, ipsam ab? Soluta laboriosam consectetur dicta eum.</p>
+              </blockquote>
+              <figcaption class="flex items-center mt-4 pl-2 border-l-2 border-primary">
+                <div class="flex-auto">
+                  <div class="text-base text-slate-900 font-semibold dark:text-slate-300"><a href="" tabindex>Ryan Florence</a></div>
+                  <div class="mt-0.5">Yapper</div>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+        </ul>
+      </div>
     </section>
   </div>
   <div class="container max-w-7xl">
@@ -45,8 +155,8 @@
         <h1 class="text-primary font-heading text-3xl font-bold ">Layanan Kami</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe quas temporibus, facere quisquam libero.</p>
       </div>
-      <div class="layanan-card-container grid grid-cols-2">
-        <div class="card bg-secondary/30 rounded-3xl shadow-xl shadow-text/20 m-20 px-20 py-10">
+      <div class="layanan-card-container flex flex-wrap md:flex-nowrap my-8 gap-8">
+        <div class="card bg-primary/10 rounded-3xl shadow-xl px-20 py-10">
           <div class="svg-container flex justify-center mb-4">
             <svg width="207.57292" zoomAndPan="magnify" viewBox="0 0 155.67969 145.81642" height="194.42189" preserveAspectRatio="xMidYMid" version="1.0" id="svg91" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
               <defs id="defs24">
@@ -81,7 +191,23 @@
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quas cum rerum dolores praesentium eligendi</p>
         </div>
 
-        <div class="card bg-secondary/30 rounded-3xl shadow-xl shadow-text/20 m-20 px-20 py-10">
+        <div class="card bg-primary/10 rounded-3xl shadow-xl px-20 py-10">
+          <div class="svg-container flex justify-center mb-4">
+            <svg width="203.45831" zoomAndPan="magnify" viewBox="0 0 152.59373 146.25779" height="195.01039" preserveAspectRatio="xMidYMid" version="1.0" id="svg91" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+              <defs id="defs24">
+                <clipPath id="58422be35b">
+                  <path d="M 556.36328,141.44531 H 709.28906 V 288 H 556.36328 Z m 0,0" clip-rule="nonzero" id="path11" />
+                </clipPath>
+              </defs>
+              <g clip-path="url(#58422be35b)" id="g42" transform="translate(-556.69531,-141.58594)">
+                <path fill="#306e8a" d="m 615.02734,141.58594 c -31.85547,0 -58.33203,23.14062 -58.33203,52.24218 0,13.97266 6.2461,26.66016 16.15625,36.01954 l -0.3125,1.53515 c -2.23437,6.54297 -7.72656,10.2461 -10.98828,11.42578 -1.89453,0.67578 -3.46484,1.70313 -4.33594,3.49219 -0.85547,1.78125 -0.33593,4.24609 0.96094,5.53516 3.03906,3.05078 6.98828,2.75 9.87109,2.77734 10.83985,0.12891 23.6211,-5.55859 31.35938,-9.42969 l 0.0898,-0.0352 2.64844,-1.53516 -1.01172,-0.3125 0.11719,0.0273 c 4.3125,1 8.83203,1.3125 13.26953,1.3125 28.01172,0 52.11328,-16.73828 57.4375,-40.82812 v -0.0117 c 0.71484,-3.20703 1.08984,-6.54687 1.08984,-9.97266 0,-29.07812 -26.16406,-52.24218 -58.01953,-52.24218 z m 0,6.64843 c 28.64844,0 51.3711,20.51563 51.3711,45.59375 0,2.94532 -0.32422,5.80469 -0.9336,8.54297 -4.54687,20.57032 -25.57031,35.6211 -50.94531,35.6211 -4.10156,0 -8.14062,-0.3125 -11.75,-1.14453 l -1.45312,-0.42579 -4.92188,2.82813 c -7.35156,3.67578 -20.02734,8.81641 -28.27344,8.71484 -1.1289,0 -1.23047,-0.22265 -2.02343,-0.3125 4.72656,-2.3125 10.17968,-6.5039 12.77734,-14.21875 l 0.0508,-0.16797 1.19531,-5.60937 -1.46484,-1.30078 c -9.51953,-8.32422 -15.3125,-19.86719 -15.3125,-32.52735 0,-25.05078 23.03906,-45.59375 51.68359,-45.59375 z m -28.41406,23.26954 v 6.64843 h 56.51563 v -6.64843 z m 0,16.62109 v 6.64844 h 56.51563 V 188.125 Z m 92.37109,13.94922 c -0.17187,1.0625 -0.28906,2.1289 -0.51953,3.17969 -0.26172,1.14453 -0.59765,2.25781 -0.9375,3.39062 15.3125,5.90625 25.38672,17.81641 25.38672,31.04688 0,9.49218 -4.93359,18.36328 -13.91797,25 l -1.80468,1.33593 0.55859,2.1836 c 1.78906,6.86718 8.07422,10.41406 12.42578,12.77734 -6.89453,0.93359 -21.88281,-0.625 -29.41406,-9.53125 l -1.25781,-1.50781 -1.92188,0.39062 c -3.02734,0.59766 -6.53125,0.89453 -10.73828,0.89453 -20.67578,0 -37.46484,-8.01171 -43.99609,-19.99609 -2.70313,-0.0547 -5.22266,-0.23437 -7.58594,-0.51953 6.16797,16.33594 26,27.16406 51.58203,27.16406 3.82812,0 7.16797,-0.23437 10.16797,-0.6875 7.33594,7.42969 19.29687,10.64844 28.98437,10.64844 0.63282,0 1.26953,-0.0117 1.88282,-0.0391 5.62109,-0.25782 9.28125,-1.5586 10.90625,-3.85547 0.71484,-1.03906 0.96093,-2.26172 0.67578,-3.45703 -0.5586,-2.375 -2.74219,-3.54297 -5.76563,-5.16797 -2.97265,-1.60938 -6.88281,-3.72656 -8.71484,-6.88281 9.3125,-7.6875 14.58594,-18.02344 14.58594,-28.75 0,-16.3086 -12.19532,-30.86719 -30.58204,-37.61719 z m -92.37109,2.67187 v 6.64844 h 39.89453 v -6.64844 z m 83.16406,19.94922 c -1.66406,2.33594 -3.49609,4.57031 -5.50781,6.64844 h 15.42578 v -6.64844 z m -18.03906,16.6211 c -4.58203,2.7539 -9.60937,5 -14.94531,6.64843 h 42.90234 v -6.64843 z m 0,0" fill-opacity="1" fill-rule="nonzero" id="path41" />
+              </g>
+            </svg>
+
+          </div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quas cum rerum dolores praesentium eligendi</p>
+        </div>
+        <div class="card bg-primary/10 rounded-3xl shadow-xl px-20 py-10">
           <div class="svg-container flex justify-center mb-4">
             <svg width="203.45831" zoomAndPan="magnify" viewBox="0 0 152.59373 146.25779" height="195.01039" preserveAspectRatio="xMidYMid" version="1.0" id="svg91" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
               <defs id="defs24">
@@ -99,9 +225,11 @@
         </div>
       </div>
     </section>
-    <section class="bg-primary text-background p-8 rounded-t-3xl flex justify-between">
-      <h2>Coba program kami untuk meningkatkan kualitas mentalmu, uji coba Gratis!</h2>
-      <button>Gabung Sekarang</button>
+    <section class="bg-primary text-background p-8 rounded-t-3xl grid md:grid-cols-2 gap-12 justify-between">
+      <h2 class="text-2xl font-heading">Coba program kami untuk meningkatkan kualitas mentalmu, uji coba Gratis!</h2>
+      <span class="flex my-auto justify-center md:justify-end">
+        <button class="bg-background/60 rounded-xl font-bold text-text p-2 text-xl">Gabung Sekarang</button>
+      </span>
     </section>
   </div>
 
