@@ -83,10 +83,10 @@ include "connection.php";
         <div class="footer-nav">
           <ul class="mt-2 flex flex-col gap-2">
             <li class="font-bold">Menu</li>
-            <li><a class="" href="#">Beranda</a></li>
-            <li><a class="" href="./content/quiz.php">Test</a></li>
-            <li><a class="" href="./content/article.php">Artikel</a></li>
-            <li><a class="" href="">Riwayat</a></li>
+            <li><a class="" href="index.php?p=">Beranda</a></li>
+            <li><a class="" href="index.php?p=quiz">Test</a></li>
+            <li><a class="" href="index.php?p=article">Artikel</a></li>
+            <li><a class="" href="index.php?p=kegiatan">Kegiatan</a></li>
           </ul>
         </div>
         <div class="footer-social">
