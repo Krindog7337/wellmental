@@ -17,9 +17,12 @@
       <div class="banner-text flex flex-col justify-evenly md:mr-40">
         <h1 class="text-2xl text-center md:text-left md:text-4xl text-primary font-bold font-heading">Mengetahui dan menjaga kesehatan mental sendiri</h1>
         <p class="leading-9">Kesehatan mental memiliki hubungan yang sejajar dengan pola pikir dan juga arah pergerakan diri. Remaja dengan mental yang sehat akan memiliki pikiran yang lebih terfokus dan terarah sehingga dapat menjadi penerus bangsa yang berkualitas. Ayo ketahui dan jaga kesehatan mentalmu!</p>
-        <div class="banner-button">
-          <a href="">
+        <div class="mt-4 justify-center md:justify-start banner-button flex gap-4">
+          <a href="./content/quiz.php">
             <button class="mx-auto flex bg-primary md:block md:mx-0 dark:darkt text-background p-2 rounded-lg hover:shadow-2xl hover:-translate-y-1 transition-all shadow-primary">Try for free</button>
+          </a>
+          <a href="#depresi">
+            <button class="mx-auto flex bg-secondary/30 md:block md:mx-0 dark:darkt text-text p-2 rounded-lg hover:shadow-2xl hover:-translate-y-1 transition-all shadow-secondary">Apa itu depresi?</button>
           </a>
         </div>
       </div>
@@ -31,45 +34,27 @@
     <img class="w-auto h-10 dark:bg-text/50 dark:p-1 rounded-lg" src="./assets/image/ab-colored.svg" alt="">
     <img class="w-auto h-10 dark:bg-text/50 dark:p-1 rounded-lg" src="./assets/image/geneva-colored.svg" alt="">
   </span>
-  <div class="container max-w-7xl">
-
-    <section class="informasi ">
-      <div class="text-container">
-        <h1 class="text-primary font-heading text-3xl font-bold ">Informasi</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe quas temporibus, facere quisquam libero.</p>
-      </div>
-      <div class="informasi-card-container flex flex-wrap md:flex-nowrap mt-8 gap-8 lg:mb-4">
-        <a href="">
-
-          <div class="card bg-secondary/20 hover:bg-secondary/40 transition-colors rounded-3xl p-8">
-            <h2 class="text-xl font-bold mb-2">Apa itu Kesehatan Mental? Gejala & Penyebab</h2>
-            <p>Pengertian Kesehatan Mental. Kesehatan jiwa atau sebutan lainnya kesehatan mental adalah kesehatan yang berkaitan dengan kondisi emosi, kejiwaan, dan psikis ...</p>
-          </div>
-        </a>
-        <a href="">
-
-          <div class="card bg-secondary/20 hover:bg-secondary/40 transition-colors rounded-3xl p-8">
-            <h2 class="text-xl font-bold mb-2">Kesehatan Mental dan Kesejahteraan Hidup</h2>
-            <p>Kesehatan mental adalah bagian yang sangat penting bagi kesehatan dan kesejahteraan seseorang secara menyeluruh. Orang tua punya peran penting dalam ...</p>
-          </div>
-        </a>
-        <a href="">
-
-          <div class="card bg-secondary/20 rounded-3xl hover:bg-secondary/40 transition-colors p-8 md:hidden lg:block">
-            <h2 class="text-xl font-bold mb-2">Pentingnya Menjaga Kesehatan Mental dan Caranya</h2>
-            <p>Kesehatan mental adalah istilah yang menggambarkan kesejahteraan emosional, psikologis, dan sosial seseorang. Cara seseorang berpikir, merasa, dan bertindak ...</p>
-          </div>
-        </a>
-        <div>
+  <div class="bg-primary">
+    <div class="container max-w-7xl text-background py-8">
+      <h1 id="depresi" class="text-4xl font-bold font-heading text-center mb-8">Ketahui Jenis Depresimu</h1>
+      <div class="jenis-depresi flex flex-col gap-4 leading-8">
+        <div class="bg-background/30 p-2 rounded-lg">
+          <h2 class="text-xl font-bold">Depresi Ringan</h2>
+          <p>Depresi ringan umumnya menimbulkan gejala yang serupa dengan gejala depresi berat, namun masih dalam kategori lebih ringan dan tidak terlalu intens atau berat. Karena itu, penderita dengan kondisi ini sering kali tidak menyadari bahwa mereka sedang mengalami depresi sehingga mereka masih bisa melakukan kegiatan sehari-hari.</p>
+        </div>
+        <div class="bg-background/30 p-2 rounded-lg">
+          <h2 class="text-xl font-bold">Depresi Sedang</h2>
+          <p>Depresi sedang umumnya ditandai dengan suasana hati yang buruk dan mudah tersinggung hampir setiap hari serta hilangnya minat atau kenikmatan terhadap aktivitas yang sebelumnya menyenangkan.</p>
+        </div>
+        <div class="bg-background/30 p-2 rounded-lg">
+          <h2 class="text-xl font-bold">Depresi Berat</h2>
+          <p>depresi pada tahap berat ditandai dengan perasaan sedih mendalam dan berlangsung selama lebih dari 2 minggu. Kondisi ini berisiko menurunkan kualitas hidup penderitanya karena bisa memengaruhi pola pikir, suasana hati, hingga perilaku seseorang. Mereka cenderung kesulitan dan tidak memungkinkan untuk melakukan kegiatan normalnya</p>
         </div>
       </div>
-      <a class="flex justify-center md:justify-end" href="article.php"><button class="bg-accent/30 rounded-lg p-2">Artikel lainnya</button></a>
-    </section>
+    </div>
   </div>
 
   <div class="container max-w-7xl">
-
-
     <section class="review mt-8">
       <div class="text-container grid text-center justify-center">
         <h1 class="text-3xl font-heading text-primary font-bold">Testimoni</h1>
@@ -185,10 +170,44 @@
       </div>
     </section>
   </div>
+  <div class="container max-w-7xl">
+    <section class="informasi ">
+      <div class="text-container">
+        <h1 class="text-primary font-heading text-3xl font-bold ">Informasi</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe quas temporibus, facere quisquam libero.</p>
+      </div>
+      <div class="informasi-card-container flex flex-wrap md:flex-nowrap mt-8 gap-8 lg:mb-4">
+        <a href="">
+
+          <div class="card bg-secondary/20 hover:bg-secondary/40 transition-colors rounded-3xl p-8">
+            <h2 class="text-xl font-bold mb-2">Apa itu Kesehatan Mental? Gejala & Penyebab</h2>
+            <p>Pengertian Kesehatan Mental. Kesehatan jiwa atau sebutan lainnya kesehatan mental adalah kesehatan yang berkaitan dengan kondisi emosi, kejiwaan, dan psikis ...</p>
+          </div>
+        </a>
+        <a href="">
+
+          <div class="card bg-secondary/20 hover:bg-secondary/40 transition-colors rounded-3xl p-8">
+            <h2 class="text-xl font-bold mb-2">Kesehatan Mental dan Kesejahteraan Hidup</h2>
+            <p>Kesehatan mental adalah bagian yang sangat penting bagi kesehatan dan kesejahteraan seseorang secara menyeluruh. Orang tua punya peran penting dalam ...</p>
+          </div>
+        </a>
+        <a href="">
+
+          <div class="card bg-secondary/20 rounded-3xl hover:bg-secondary/40 transition-colors p-8 md:hidden lg:block">
+            <h2 class="text-xl font-bold mb-2">Pentingnya Menjaga Kesehatan Mental dan Caranya</h2>
+            <p>Kesehatan mental adalah istilah yang menggambarkan kesejahteraan emosional, psikologis, dan sosial seseorang. Cara seseorang berpikir, merasa, dan bertindak ...</p>
+          </div>
+        </a>
+        <div>
+        </div>
+      </div>
+      <a class="flex justify-center md:justify-end" href="index.php?p=article"><button class="bg-accent/30 rounded-lg p-2">Artikel lainnya</button></a>
+    </section>
+  </div>
 
   <div class="container max-w-7xl">
 
-    <section class="layanan">
+    <section class="layanan mt-8">
       <div class="text-container">
         <h1 class="text-primary font-heading text-3xl font-bold ">Layanan Kami</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe quas temporibus, facere quisquam libero.</p>

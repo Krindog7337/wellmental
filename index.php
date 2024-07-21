@@ -49,10 +49,10 @@ include "connection.php";
         </span>
         <nav id="navigation" class="hidden mt-4 md:flex md:my-auto">
           <ul class="flex-col flex md:flex-row gap-4 ml-auto">
-            <li><a class="p-2 hover:text-primary transition-colors" href="#">Beranda</a></li>
-            <li><a class="p-2 hover:text-primary transition-colors" href="content/quiz.php">Test</a></li>
-            <li><a class="p-2 hover:text-primary transition-colors" href="content/article.php">Artikel</a></li>
-            <li><a class="p-2 hover:text-primary transition-colors" href="">Riwayat</a></li>
+            <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=">Beranda</a></li>
+            <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=quiz">Test</a></li>
+            <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=article">Artikel</a></li>
+            <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=kegiatan">Riwayat</a></li>
             <li>
               <a class="bg-secondary/30 dark:darkt hover:bg-secondary transition-colors rounded-md p-2" href="login.php">
                 <?= $_SESSION['username'] ?>
@@ -84,8 +84,8 @@ include "connection.php";
           <ul class="mt-2 flex flex-col gap-2">
             <li class="font-bold">Menu</li>
             <li><a class="" href="#">Beranda</a></li>
-            <li><a class="" href="/content/quiz.php">Test</a></li>
-            <li><a class="" href="content/article.php">Artikel</a></li>
+            <li><a class="" href="./content/quiz.php">Test</a></li>
+            <li><a class="" href="./content/article.php">Artikel</a></li>
             <li><a class="" href="">Riwayat</a></li>
           </ul>
         </div>

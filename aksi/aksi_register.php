@@ -14,6 +14,6 @@ if ($_POST) {
 
 
     mysqli_query($connection, $query);
-    header('location:../index.php?p=login.php');
+    header('location:../login.php');
   }
 }
