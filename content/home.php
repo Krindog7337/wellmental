@@ -25,15 +25,52 @@
       </div>
     </div>
   </div>
-  <span class="company flex flex-wrap md:flex-nowrap gap-16 justify-center mt-8">
-    <img src="./assets/image/g35.svg" alt="">
-    <img class="rotate-90" src="./assets/image/g35.svg" alt="">
-    <img src="./assets/image/g35.svg" alt="">
-    <img class="rotate-180" src="./assets/image/g35.svg" alt="">
+  <span class="company flex flex-wrap md:flex-nowrap gap-16 justify-center py-8">
+    <img class="w-auto h-10 dark:bg-text/50 dark:p-1 rounded-lg" src="./assets/image/Aura-colored.svg" alt="">
+    <img class="w-auto h-10 dark:bg-text/50 dark:p-1 rounded-lg" src="./assets/image/Terra-Color.svg" alt="">
+    <img class="w-auto h-10 dark:bg-text/50 dark:p-1 rounded-lg" src="./assets/image/ab-colored.svg" alt="">
+    <img class="w-auto h-10 dark:bg-text/50 dark:p-1 rounded-lg" src="./assets/image/geneva-colored.svg" alt="">
   </span>
   <div class="container max-w-7xl">
 
-    <section class="review">
+    <section class="informasi ">
+      <div class="text-container">
+        <h1 class="text-primary font-heading text-3xl font-bold ">Informasi</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia saepe quas temporibus, facere quisquam libero.</p>
+      </div>
+      <div class="informasi-card-container flex flex-wrap md:flex-nowrap mt-8 gap-8 lg:mb-4">
+        <a href="">
+
+          <div class="card bg-secondary/20 hover:bg-secondary/40 transition-colors rounded-3xl p-8">
+            <h2 class="text-xl font-bold mb-2">Apa itu Kesehatan Mental? Gejala & Penyebab</h2>
+            <p>Pengertian Kesehatan Mental. Kesehatan jiwa atau sebutan lainnya kesehatan mental adalah kesehatan yang berkaitan dengan kondisi emosi, kejiwaan, dan psikis ...</p>
+          </div>
+        </a>
+        <a href="">
+
+          <div class="card bg-secondary/20 hover:bg-secondary/40 transition-colors rounded-3xl p-8">
+            <h2 class="text-xl font-bold mb-2">Kesehatan Mental dan Kesejahteraan Hidup</h2>
+            <p>Kesehatan mental adalah bagian yang sangat penting bagi kesehatan dan kesejahteraan seseorang secara menyeluruh. Orang tua punya peran penting dalam ...</p>
+          </div>
+        </a>
+        <a href="">
+
+          <div class="card bg-secondary/20 rounded-3xl hover:bg-secondary/40 transition-colors p-8 md:hidden lg:block">
+            <h2 class="text-xl font-bold mb-2">Pentingnya Menjaga Kesehatan Mental dan Caranya</h2>
+            <p>Kesehatan mental adalah istilah yang menggambarkan kesejahteraan emosional, psikologis, dan sosial seseorang. Cara seseorang berpikir, merasa, dan bertindak ...</p>
+          </div>
+        </a>
+        <div>
+        </div>
+      </div>
+      <a class="flex justify-center md:justify-end" href="article.php"><button class="bg-accent/30 rounded-lg p-2">Artikel lainnya</button></a>
+    </section>
+  </div>
+
+  <div class="container max-w-7xl">
+
+
+    <section class="review mt-8">
       <div class="text-container grid text-center justify-center">
         <h1 class="text-3xl font-heading text-primary font-bold">Testimoni</h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, quam!</p>
@@ -148,6 +185,7 @@
       </div>
     </section>
   </div>
+
   <div class="container max-w-7xl">
 
     <section class="layanan">
