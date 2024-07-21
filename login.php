@@ -37,7 +37,7 @@
         <div>
           <label for="username" class="block text-sm leading-6 text-text">Username</label>
           <div class="mt-2">
-            <input id="username" name="username" type="text" autocomplete="username" placeholder="johndoe@mail.example" required class="block w-full dark:bg-accent/20 text-text rounded-lg border-0 p-1.5 shadow-sm ring-1 ring-inset ring-accent placeholder:text-text/50 focus:ring-2 focus:ring-inset focus:ring-primary sm:leading-6" />
+            <input id="username" name="username" type="text" autocomplete="username" placeholder="Username" required class="block w-full dark:bg-accent/20 text-text rounded-lg border-0 p-1.5 shadow-sm ring-1 ring-inset ring-accent placeholder:text-text/50 focus:ring-2 focus:ring-inset focus:ring-primary sm:leading-6" />
           </div>
         </div>
 

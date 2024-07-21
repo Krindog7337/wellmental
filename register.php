@@ -33,7 +33,7 @@
     </div>
 
     <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
-      <form class="space-y-6" action="../aksi/aksi_register.php" method="POST">
+      <form class="space-y-6" action="./aksi/aksi_register.php" method="POST">
         <div>
           <label for="username" class="block text-sm leading-6 text-text">Username</label>
           <div class="mt-2">
