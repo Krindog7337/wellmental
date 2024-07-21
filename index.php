@@ -52,7 +52,7 @@ include "connection.php";
             <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=">Beranda</a></li>
             <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=quiz">Test</a></li>
             <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=article">Artikel</a></li>
-            <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=kegiatan">Riwayat</a></li>
+            <li><a class="p-2 hover:text-primary transition-colors" href="index.php?p=kegiatan">Kegiatan</a></li>
             <li>
               <a class="bg-secondary/30 dark:darkt hover:bg-secondary transition-colors rounded-md p-2" href="login.php">
                 <?= $_SESSION['username'] ?>
