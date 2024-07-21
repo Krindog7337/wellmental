@@ -1,31 +1,14 @@
-<?php
-
-session_start();
-if ($_SESSION['username'] != true) {
-  header("location:login.php");
-}
-
-include "content.php";
-include "connection.php";
-
-?>
-
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="assets/css/output.css" />
-  <!-- font -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet" />
-
-  <title>Wellmental</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../assets/css/output.css">
+  <title>Quiz</title>
 </head>
 
-<body class="bg-background text-text dark:darkt font-body">
+<body>
   <div class="sticky top-0 bg-background z-max">
     <div class="container top-0 p-4 max-w-7xl">
       <div class="navbar grid grid-cols-2 md:flex justify-between">
@@ -49,15 +32,12 @@ include "connection.php";
         </span>
         <nav id="navigation" class="hidden mt-4 md:flex md:my-auto">
           <ul class="flex-col flex md:flex-row gap-4 ml-auto">
-            <li><a class="p-2 hover:text-primary transition-colors" href="#">Beranda</a></li>
+            <li><a class="p-2 hover:text-primary transition-colors" href="/index.php">Beranda</a></li>
             <li><a class="p-2 hover:text-primary transition-colors" href="content/quiz.php">Test</a></li>
             <li><a class="p-2 hover:text-primary transition-colors" href="content/article.php">Artikel</a></li>
             <li><a class="p-2 hover:text-primary transition-colors" href="">Riwayat</a></li>
-            <li>
-              <a class="bg-secondary/30 dark:darkt hover:bg-secondary transition-colors rounded-md p-2" href="login.php">
-                <?= $_SESSION['username'] ?>
-              </a>
-            </li>
+
+
 
             <!-- theme switcher -->
             <div class="flex md:border-l-2 border-accent/30 pl-2">
@@ -75,40 +55,12 @@ include "connection.php";
     </div>
     <div class="border-b-2 border-accent/30"></div>
   </div>
-  <main class="mt-4"><?php include $content ?></main>
-  <footer class="bg-primary/10">
-    <div class="container py-8 max-w-7xl">
-      <div class="grid md:grid-cols-3 mb-12">
-        <a class="brand uppercase text-primary font-bold text-2xl font-fredoka" href="./index.php">wellmental</a>
-        <div class="footer-nav">
-          <ul class="mt-2 flex flex-col gap-2">
-            <li class="font-bold">Menu</li>
-            <li><a class="" href="#">Beranda</a></li>
-            <li><a class="" href="/content/quiz.php">Test</a></li>
-            <li><a class="" href="content/article.php">Artikel</a></li>
-            <li><a class="" href="">Riwayat</a></li>
-          </ul>
-        </div>
-        <div class="footer-social">
-          <ul class=" mt-8 md:mt-2 flex flex-col gap-2">
-            <li class="font-bold">Social</li>
-            <li><a class="" href="">Instagram</a></li>
-            <li><a class="" href="">Facebook</a></li>
-            <li><a class="" href="">Gmail</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="credit flex justify-between border-t-2 border-primary/30 pt-10">
-        <p>Wellmental by Terra Team</p>
-        <span class="flex gap-8">
-          <a href="">Terms of service</a>
-          <a href="">Privacy policy</a>
-        </span>
-      </div>
-    </div>
-  </footer>
-  <script src="./assets/js/theme-switcher.js"></script>
-  <script src="./assets/js/hamburger.js"></script>
+  <div class="container flex justify-center max-w-7xl">
+
+    <embed class="" src="https://www.halodoc.com/depression-test/quiz" width="400" height="700">
+  </div>
+  <script src="../assets/js/theme-switcher.js"></script>
+  <script src="../assets/js/hamburger.js"></script>
 </body>
 
 </html>

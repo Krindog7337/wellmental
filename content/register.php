@@ -4,11 +4,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="./assets/css/output.css" />
   <!-- font -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/css/output.css" />
 
   <title>Login</title>
 </head>
@@ -20,25 +20,28 @@
         <path d="M198-160 20-480l180-320h160L180-480l104 186 312-506h164l180 320-180 320H600l180-320-104-184-310 504H198Z" />
       </svg>
       <h2 class="mt-10 text-center text-2xl font-bold leading-9 text-text font-heading">
-        Masuk ke <span class="text-primary"> WellMental </span>
+        Daftar ke <span class="text-primary"> WellMental </span>
       </h2>
     </div>
 
     <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
-      <form class="space-y-6" action="ceklogin.php" method="POST">
+      <form class="space-y-6" action="../aksi/aksi_register.php" method="POST">
         <div>
           <label for="username" class="block text-sm leading-6 text-text">Username</label>
           <div class="mt-2">
-            <input id="username" name="username" type="text" autocomplete="username" placeholder="johndoe@mail.example" required class="block w-full dark:bg-accent/20 text-text rounded-lg border-0 p-1.5 shadow-sm ring-1 ring-inset ring-accent placeholder:text-text/50 focus:ring-2 focus:ring-inset focus:ring-primary sm:leading-6" />
+            <input id="username" name="username" type="text" autocomplete="username" placeholder="John" required class="block w-full dark:bg-accent/20 text-text rounded-lg border-0 p-1.5 shadow-sm ring-1 ring-inset ring-accent placeholder:text-text/50 focus:ring-2 focus:ring-inset focus:ring-primary sm:leading-6" />
+          </div>
+        </div>
+        <div>
+          <label for="email" class="block text-sm leading-6 text-text">Email</label>
+          <div class="mt-2">
+            <input id="email" name="email" type="email" autocomplete="email" placeholder="johndoe@mail.example" required class="block w-full dark:bg-accent/20 text-text rounded-lg border-0 p-1.5 shadow-sm ring-1 ring-inset ring-accent placeholder:text-text/50 focus:ring-2 focus:ring-inset focus:ring-primary sm:leading-6" />
           </div>
         </div>
 
         <div>
           <div class="flex items-center justify-between">
             <label for="password" class="block text-sm font-medium leading-6 text-text">Password</label>
-            <div class="text-sm">
-              <a href="#" class="font-semibold text-primary hover:text-primary/80 transition-colors">Forgot password?</a>
-            </div>
           </div>
           <div class="mt-2">
             <input id="password" name="password" type="password" autocomplete="current-password" placeholder="●●●●●●●●" required class="block w-full dark:bg-accent/20 text-text rounded-lg border-0 p-1.5 shadow-sm ring-1 ring-inset ring-accent placeholder:text-text/50 focus:ring-2 focus:ring-inset focus:ring-primary sm:leading-6" />
@@ -47,15 +50,15 @@
 
         <div>
           <button type="submit" class="flex w-full justify-center rounded-md bg-primary text-background px-3 py-1.5 hover:-translate-y-1 hover:shadow-2xl transition-all shadow-primary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary">
-            Sign in
+            Sign up
           </button>
         </div>
+        <input type="hidden" name="aksi" value="tambah">
       </form>
-
       <div class="flex justify-between select-none">
         <p class="mt-10 text-center text-sm text-text">
           Belum punya akun?
-          <a href="content/register.php" class="font-semibold leading-6 text-primary hover:text-primary/80 transition-colors">Buat akun</a>
+          <a href="#" class="font-semibold leading-6 text-primary hover:text-primary/80 transition-colors">Buat akun</a>
         </p>
         <div class="flex justify-center border-accent/30 mt-10">
           <svg class="moon cursor-pointer fill-primary -rotate-12 hover:rotate-12 hover:fill-secondary selection:fill-secondary transition-all" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px">
