@@ -8,6 +8,7 @@
     --primary: 34 92 119;
     --secondary: 114 181 248;
     --accent: 136 194 221;
+    --warning: 204 51 0;
   }
   .darkt {
     --text: 245 250 250;

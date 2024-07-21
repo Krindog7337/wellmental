@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./*.{php,html}", "./content/*.php"],
+  content: ["./*.{php,html}", "./content/*.{php,html}"],
   theme: {
     container: {
       center: true,
@@ -12,6 +12,7 @@ module.exports = {
       primary: "rgb(var(--primary) / <alpha-value>)",
       secondary: "rgb(var(--secondary) / <alpha-value>)",
       accent: "rgb(var(--accent))",
+      warning: "rgb(var(--warning))",
     },
 
     fontSize: {
