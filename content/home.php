@@ -282,11 +282,14 @@
         </div>
       </div>
     </section>
-    <section class="bg-primary text-background p-8 rounded-t-3xl grid md:grid-cols-2 gap-12 justify-between">
-      <h2 class="text-2xl font-heading">Coba program kami untuk meningkatkan kualitas mentalmu, uji coba Gratis!</h2>
-      <span class="flex my-auto justify-center md:justify-end">
-        <button class="bg-background/60 rounded-xl font-bold text-text p-2 text-xl">Gabung Sekarang</button>
-      </span>
+    <section class="bg-primary text-background p-8 rounded-t-3xl gap-12 justify-between">
+      <h2 class="text-2xl font-heading text-center">Coba program kami untuk meningkatkan kualitas mentalmu, uji coba Gratis!</h2>
+      <!-- <span class="flex my-auto justify-center md:justify-end">
+        <a href="./login.php">
+          <button class="bg-background/60 rounded-xl font-bold text-text p-2 text-xl">Gabung Sekarang</button>
+
+        </a>
+      </span> -->
     </section>
   </div>
 
